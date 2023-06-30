@@ -1,6 +1,6 @@
 👋 Hi, my name is Richard Zhan.
 
-I’m a front-end developer with 5 years specializing in React, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, implement the latest standards, code optimization and performance improvements.
+I’m a front-end developer with 8+ years specializing in React, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, implement the latest standards, code optimization and performance improvements.
 
 I can start a new project for you or continue work on an existing one, I’m also happy to work with your existing team or work on my own.
 
