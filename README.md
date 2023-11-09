@@ -1,6 +1,6 @@
 👋 Hi, my name is Richard Zhan.
 
-I’m a front-end developer with 8+ years specializing in React, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, implement the latest standards, code optimization and performance improvements.
+I’m a full-stack developer with 8+ years specializing in React, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, implement the latest standards, code optimization and performance improvements.
 
 I can start a new project for you or continue work on an existing one, I’m also happy to work with your existing team or work on my own.
 
@@ -10,7 +10,7 @@ I understand my strengths and weaknesses and will notify you about any potential
 
 Does it sound like we'd be a good fit for each other?
 
-Schedule a quick call with me here https://calendly.com/richard-zhan/30min.
+Schedule a quick call with me on [Calendly](https://calendly.com/richard929/30min).
 
 
 <!---
